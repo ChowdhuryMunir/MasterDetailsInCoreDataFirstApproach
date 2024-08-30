@@ -1,5 +1,3 @@
-Got it! Given that the project is an ASP.NET Core MVC application, here’s a revised `README.md` tailored to reflect that it’s an MVC application using Entity Framework Core with a Data-First approach:
-
 ---
 
 # MasterDetailsInCoreDataFirstApproach
