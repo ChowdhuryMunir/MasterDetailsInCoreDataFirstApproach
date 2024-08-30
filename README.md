@@ -1,5 +1,3 @@
----
-
 # MasterDetailsInCoreDataFirstApproach
 
 `MasterDetailsInCoreDataFirstApproach` is an ASP.NET Core MVC application that demonstrates the Master-Detail design pattern using Entity Framework Core with a Data-First approach. This project showcases how to manage relationships between master and detail entities in a web application.
